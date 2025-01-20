@@ -1,2 +1,2 @@
-# Multimedia-training
+# Multimedia-Training
 Belajar menjadi progammer
